@@ -91,6 +91,7 @@ def print_singly_linked_list(node):
 #
 #
 
+
 def insertNodeAtPosition(llist, data, position):
     node = llist
     new_item = SinglyLinkedListNode(data)
